@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+.Logo{
+    width: 7%;
+    height: 7%
+}
+.card-img-top{
+    width:100%;
+    height:200px;
+    object-fit:contain;
+}
+.cart_img{
+    width:80px;
+    height:80px;
+    object-fit:contain;
+
+}
+span{
+    font-family: 'Red Hat Display', sans-serif;
+}
+strong{
+    color: gold;
+}
